@@ -336,4 +336,4 @@ Manual evaluation should cover verification, event submission/approval, normal a
 Early notes may contain historical proposals. Use this overview, current implementation and deployment guide for the final setup. The project report contains the detailed development journal.
 
 ---
-© Marzan Ahmed 2026
+© Faiza Ahmed Esha & Marzan Ahmed  2026
